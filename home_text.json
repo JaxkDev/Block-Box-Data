@@ -1,5 +1,6 @@
-[
-  {
+{
+  "data": 
+  [{
     "title": "Title Here",
     "body": "Some long description here."
   },
@@ -10,5 +11,5 @@
   {
     "title": "Title Here 3",
     "body": "Some long description here 3."
-  }
-]
+  }]
+}
